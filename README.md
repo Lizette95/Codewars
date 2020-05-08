@@ -1,5 +1,5 @@
 # Codewars  
-<img src="https://www.codewars.com/users/Lizette95/badges/large">
+![alt text](https://www.codewars.com/users/Lizette95/badges/large)
 
 ### 6 kyu:
 Tortoise racing  
