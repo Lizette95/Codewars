@@ -1,5 +1,4 @@
-# Codewars
-Backup of my completed Codewars challenges  
+# Codewars  
 <img src="https://www.codewars.com/users/Lizette95/badges/large">
 
 ### 6 kyu:
